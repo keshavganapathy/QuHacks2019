@@ -1,2 +1,2 @@
-# quhacks-solutions-2020
-Problem Solutions to QuHacks 2020.
+# quhacks-solutions-2019
+Problem Solutions to QuHacks 2019.
